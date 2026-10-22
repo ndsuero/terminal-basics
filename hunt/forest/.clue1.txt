@@ -1,0 +1,4 @@
+You found the hidden clue!
+Now go UP one level, then into castle/tower/top
+There are many files there. Some are traps.
+Read ALL the .txt files at once with ONE command (use a wildcard).

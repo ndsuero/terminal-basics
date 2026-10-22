@@ -1,0 +1,5 @@
+Clue 3: The key is in the cave, inside the dungeon.
+A dragon guards it. Rule of every engineer:
+BEFORE you touch anything important, make a backup.
+1. Copy dragon.txt to dragon-backup.txt
+2. Then read key.txt

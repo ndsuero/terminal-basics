@@ -1,0 +1,2 @@
+Clue 2b: The dungeon is inside castle, NOT inside tower.
+Open dungeon/map.txt in VS Code using the code command.

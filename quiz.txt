@@ -1,0 +1,10 @@
+1-pwd
+2-cd + file
+3-cp create a perfect copy o backup of the hole folder, and mv transport the information to another folder that can have previous information.
+4-mv name.txt newname.txt
+5-add more lines to the file
+6-delete the entire file with no consulting.
+7-ls -a
+8-Make several nested room in a file
+9-read any .txt file
+10-create a backup and verify what is inside the file for a double check.
