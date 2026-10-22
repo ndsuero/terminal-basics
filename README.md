@@ -4,15 +4,15 @@
 
 ## What I learned in week 1
 
-- (ls use the flashlght on folders to see what's is inside)
-- (pwd where I'm or the path.)
-- (Delete a file, using rm -ri, in a professional way.)
-- (Rename a fiel with mv a.txt b.txt)
-- (mkdir room, create a folder.)
-- (touch a.txt: create a file)
-- (cat a.txt: read what is inside the file)
-- (ls -a to see hidden files.)
-- (copy files.)
+- ls use the flashlght on folders to see what's is inside
+- pwd where I'm or the path.
+- Delete a file, using rm -ri, in a professional way.
+- Rename a fiel with mv a.txt b.txt
+- mkdir room, create a folder.
+- touch a.txt: create a file.
+- cat a.txt: read what is inside the file.
+- ls -a to see hidden files.
+
 
 ## What's in each folder
 
