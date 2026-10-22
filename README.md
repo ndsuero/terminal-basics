@@ -4,12 +4,15 @@
 
 ## What I learned in week 1
 
-- (.gitignore: exclude a file from go to internet o be present on the photo.)
-- (On how to fix a merge of comments in a file.)
-- (Delete a file, or a room, with rm -ri, in a professional way.)
+- (ls use the flashlght on folders to see what's is inside)
+- (pwd where I'm or the path.)
+- (Delete a file, using rm -ri, in a professional way.)
 - (Rename a fiel with mv a.txt b.txt)
-- (git add, make the file present on the photo.)
-- (ls is like a flash light on a room.)
+- (mkdir room, create a folder.)
+- (touch a.txt: create a file)
+- (cat a.txt: read what is inside the file)
+- (ls -a to see hidden files.)
+- (copy files.)
 
 ## What's in each folder
 
@@ -20,4 +23,4 @@
 
 ## The treasure hunts
 
-(The interesting part is open txt files and look for hiden message to go an open folders that guide to the next key or txt file, there was a trap but I don'remember if I get trap. I found the dragon but I don't remember the secret word.)
+(The interesting part is open txt files and look for hiden message to go an open folders that guide to the next key or txt file, there was a trap, I used cat *.txt in the tower, so I skipped both .log traps.. I found the dragon The secret word s UNSTOPPABLE.)
