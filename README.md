@@ -1,26 +1,28 @@
 # Terminal Basics
 
-(One sentence: what is this repository?)
+My practice from week 1 of my Forward Deployed Engineer training: controlling my computer from the terminal.
 
 ## What I learned in week 1
 
-- ls use the flashlght on folders to see what's is inside
-- pwd where I'm or the path.
-- Delete a file, using rm -ri, in a professional way.
-- Rename a fiel with mv a.txt b.txt
-- mkdir room, create a folder.
-- touch a.txt: create a file.
-- cat a.txt: read what is inside the file.
-- ls -a to see hidden files.
+- `ls` is like a flashlight in a room, and `ls -a` also shows hidden files
+- Move around with `cd`, and go up one level with `cd ..`
+- Create folders with `mkdir` and files with `echo`
+- `>` replaces a file, while `>>` adds a line at the end
+- Rename a file with `mv a.txt b.txt`
+- Delete a file or a room the professional way, with `rm -i` and `rm -ri`
+- Use wildcards like `*.txt` to work with many files at once
 
 
 ## What's in each folder
 
-- `hunt/`: (Various folders "dungeon & tower", about the hunt for the treasure.)
-- `my-business/`: (Has some invoices, clients name, and notes.)
-- `school/`: (Have some math and homeworks.)
-- `day2-lab/`: (animals.txt, a list of 3 animals.)
+- `hunt/`: the treasure hunt, with a forest, a castle, a tower and a dungeon
+- `my-business/`: my first "client": invoices, client names and notes
+- `school/`: math homework, nested folders practice
+- `day2-lab/`: `animals.txt`, a list of 3 animals
 
-## The treasure hunts
+## The treasure hunt
 
-(The interesting part is open txt files and look for hiden message to go an open folders that guide to the next key or txt file, there was a trap, I used cat *.txt in the tower, so I skipped both .log traps.. I found the dragon The secret word s UNSTOPPABLE.)
+I followed clues hidden in text files. The first one was invisible
+until I used my flashlight (`ls -a`). In the tower I avoided both traps
+by reading only the `.txt` files. Before facing the dragon, I made a backup,
+and in the cave I found the secret word: **UNSTOPPABLE**.
